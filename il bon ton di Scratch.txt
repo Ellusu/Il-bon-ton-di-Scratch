@@ -1,0 +1,7 @@
+Il bon ton di Scratch:
+
+- I nostri progetti nascono dal lavoro di altri, citiamo e ringraziamo sempre la fonte dei nostri Remix;
+- La potenza del Software libero è la comunità, quando possiamo, diamo una mano a chi sta imparando;
+- Ricordiamoci che quello che per noi può essere semplice per alcuni può essere complesso, scriviamo una piccola descrizione tecnica al nostro progetto;
+- Oltre a dare una mano è importante anche saper chiedere aiuto, e scratch ha diverse comunità dove poterlo chiedere, come il forum o StackOverflow;
+- A qualcuno può essere utile il tuo lavoro? Avvisa la persona a cui può interessare il tuo progetto.
